@@ -36,7 +36,7 @@ Git et GitHub sont spécialisés dans le contrôle de version du code informatiq
 
 **Les forks** désignent les versions d'un répertoire distant clonées sur les ordinateurs. Par exemple : lorsque je clone un répertoire sur mon ordinateur, je fais une *fork* du répertoire GitHub.
 
-**Les branches** sont les différentes versions du code. Habituellement, la branche *main* ou *master* contient la version principale. Une bonne pratique est de modifier le code sur une branche différente de la branche *main* et puis de la fusionner avec la branche principale lorsque que les modifications ont été codées et testées.
+**Les branches** sont les différentes versions du code. Habituellement, la branche *main* ou *master* contient la version principale. Une bonne pratique est de modifier le code sur une branche différente de la branche *main* et puis de la fusionner avec la branche principale lorsque les modifications ont été codées et testées.
 
 **Merge** une branche signifie fusionner deux branches. Généralement, on merge une branche de développement avec la branche principal *main*.
 
@@ -51,7 +51,7 @@ Git et GitHub sont spécialisés dans le contrôle de version du code informatiq
 
 ### 1. Installation
 
-La partie du tutoriel d'OpenClassRoom sur l'installation est très bien faire (https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github/7165721-installez-git-sur-votre-ordinateur).
+La partie du tutoriel d'OpenClassRoom sur l'installation est très bien faite (https://openclassrooms.com/fr/courses/7162856-gerez-du-code-avec-git-et-github/7165721-installez-git-sur-votre-ordinateur).
 
 La première étape est de créer un compte sur https://github.com/. La plan tarifaire gratuit suffit amplement. 
 
